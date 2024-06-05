@@ -1,0 +1,63 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+  <title>Bigtunes</title>
+<atom:link href="https://feed.podbean.com/museumofthemissing/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://google.com</link>
+<description>On the 29th of February 1988, a global catastrophe led to 3.5 million people disappearing in an instant. Only problem is, no one remembers anything about it. Until now.</description>
+<pubDate>Tue, 26 Sep 2023 06:00:00 +0100</pubDate>
+<generator>https://podbean.com/?v=5.5</generator>
+<language>en</language>
+<copyright>Copyright 2022 All rights reserved.</copyright>
+<category>Fiction</category>
+<ttl>1440</ttl>
+<itunes:type>serial</itunes:type>
+<itunes:subtitle/>
+<itunes:summary>’s exploration of information pertaining to a global catastrophe that struck the earth on the 29th February 1988... except, no one remembers it ever occuring. Each week, K delves deep into the Museum’s archiveof impossible texts and tries to puzzle out exactly what it is she has discovered - and what it might mean for the rest of us.</itunes:summary>
+<itunes:author>Claire Waller</itunes:author>
+<itunes:category text="Fiction"/>
+<itunes:category text="Fiction">
+<itunes:category text="Science Fiction"/>
+</itunes:category>
+<itunes:category text="Fiction">
+<itunes:category text="Drama"/>
+</itunes:category>
+<itunes:owner>
+<itunes:name>Name here</itunes:name>
+</itunes:owner>
+<itunes:block>No</itunes:block>
+<itunes:explicit>false</itunes:explicit>
+<itunes:new-feed-url>https://feed.podbean.com/museumofthemissing/feed.xml</itunes:new-feed-url>
+<itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/15301272/image0_tmvq5i.jpeg"/>
+<image>
+<url>https://pbcdn1.podbean.com/imglogo/image-logo/15301272/image0_tmvq5i.jpeg</url>
+<title>Bigtunes</title>
+<link>https://museumofthemissing.podbean.com</link>
+<width>144</width>
+<height>144</height>
+</image>
+  <item>
+<title>17</title>
+<itunes:title>17</itunes:title>
+<link>https://museumofthemissing.podbean.com/e/1-35-million-people-vanished/</link>
+<comments>https://museumofthemissing.podbean.com/e/1-35-million-people-vanished/#comments</comments>
+<pubDate>Tue, 11 Jul 2023 20:00:00 +0100</pubDate>
+<guid isPermaLink="false">museumofthemissing.podbean.com/f114108f-b70a-3e7a-8ff9-778b01ce59df</guid>
+<description>
+<![CDATA[ <p>Episode 1</p> <p>K explains what she has found and how she found it - and asks for help in unravelling the mystery of The Museum of the Missing.</p> <p>Museum of the Missing is written, performed and produced by Claire Waller. The title song, Museum of the Missing, was written by David Rozzell and is performed by David and Clare Rozzell. To find out more, visit <a href='http://www/folkgrasshippies.com'>Folkgrass Hippies</a></p> <p>Incidental music sourced royalty free from pixabay.com</p> <p>Find us on:</p> <p>Instagram @museum_of_the_missing</p> <p>Twitter @MissingMuseum</p> <p>Email: <a href='mailto:missingmuseum@gmail.com'>missingmuseum@gmail.com</a></p> <p>Buy the podcast a kofi: <a href='https://ko-fi.com/museumofthemissing'>Museum of the Missing</a></p> <p>Please rate and review to help the podcast grow!</p> ]]>
+</description>
+<content:encoded>
+<![CDATA[ <p>Episode 1</p> <p>K explains what she has found and how she found it - and asks for help in unravelling the mystery of The Museum of the Missing.</p> <p>Museum of the Missing is written, performed and produced by Claire Waller. The title song, Museum of the Missing, was written by David Rozzell and is performed by David and Clare Rozzell. To find out more, visit <a href='http://www/folkgrasshippies.com'>Folkgrass Hippies</a></p> <p>Incidental music sourced royalty free from pixabay.com</p> <p>Find us on:</p> <p>Instagram @museum_of_the_missing</p> <p>Twitter @MissingMuseum</p> <p>Email: <a href='mailto:missingmuseum@gmail.com'>missingmuseum@gmail.com</a></p> <p>Buy the podcast a kofi: <a href='https://ko-fi.com/museumofthemissing'>Museum of the Missing</a></p> <p>Please rate and review to help the podcast grow!</p> ]]>
+</content:encoded>
+<enclosure url="https://fs4.fastupload.io/ba796a655575e02c/bt17.mp3?download_token=dae6e3202beda877c1b25070528cc25418d92478b2b314f57e6ac2001a7f2af4" length="22387161" type="audio/mpeg"/>
+<itunes:subtitle>Episode 1 K explains what she has found and how she found it - and asks for help in unravelling the mystery of The Museum of the Missing. Museum of the Missing is written, performed and produced by Claire Waller. The title song, Museum of the Missing...</itunes:subtitle>
+<itunes:summary>K explains what she has found and how she found it - and asks for help in unravelling the mystery of The Museum of the Missing.</itunes:summary>
+<itunes:author>Claire Waller</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>24:35</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+</channel>
+</rss>
